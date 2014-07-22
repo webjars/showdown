@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>showdown</artifactId>
-    <version>0.3.1-SNAPSHOT</version>
+    <version>0.3.1</version>
     <name>Showdown</name>
     <description>WebJar for Showdown</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/showdown</url>
         <connection>scm:git:https://github.com/webjars/showdown.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/showdown.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>showdown-0.3.1</tag>
     </scm>
     
     <build>
